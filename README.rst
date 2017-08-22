@@ -9,8 +9,14 @@ npm v3.10.10
 Usage
 =====
 
+Install dependencies with
+
+.. code-block:: bash
+
+    $ npm install
+
 Run the application with
 
-.. code-block:bash
+.. code-block:: bash
 
     $ npm start

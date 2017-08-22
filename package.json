@@ -1,7 +1,10 @@
 {
-  "name":"seagull",
-  "version":"1.0.0",
-  "scripts":{
+  "name": "seagull",
+  "version": "1.0.0",
+  "scripts": {
     "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "email": "^0.2.6"
   }
 }
